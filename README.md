@@ -1,2 +1,2 @@
 # oppo
-Twrp
+Twrp magisk
